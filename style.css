@@ -1,0 +1,12 @@
+canvas
+{
+    border: 4px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px gainsboro;
+}
+h3
+{
+    background-color: black;
+    color: aliceblue;
+    line-height: 2;
+}
